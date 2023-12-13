@@ -3,3 +3,4 @@ pandas
 scikit-learn
 streamlit
 nltk
+streamlit_option_menu
